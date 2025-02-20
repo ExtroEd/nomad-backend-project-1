@@ -1,0 +1,29 @@
+# Общие настройки Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.db
+*.sqlite3
+
+# Папки виртуальных окружений
+venv/
+env/
+*.env
+
+# Директории и файлы PyCharm
+.idea/
+
+# Настройки для Jupyter notebook
+.ipynb_checkpoints/
+
+# Папки для установленных пакетов
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# Логи
+*.log
+*.pot
+*.mo
